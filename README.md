@@ -76,13 +76,7 @@ This theme is optimized for deployment on Vercel. To deploy:
 
 For other deployment options, please refer to the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
 
-## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
