@@ -14,7 +14,7 @@ import {
   BarElement,
 } from "chart.js";
 import { GiHamburgerMenu } from "react-icons/gi";
-import Sidebar from "@/components/ui/Dashboard/sidebar";
+import Sidebar from "@/components/ui/Dashbaord/sidebar";
 
 ChartJS.register(
   CategoryScale,

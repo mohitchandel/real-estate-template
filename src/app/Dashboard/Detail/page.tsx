@@ -1,8 +1,6 @@
 "use client";
 import React from "react";
-import Image from "next/image";
-import Sidebar from "@/components/ui/Dashboard/sidebar";
-import { GiHamburgerMenu } from "react-icons/gi";
+import Sidebar from "@/components/ui/Dashbaord/sidebar";
 
 interface Property {
   id: number;
